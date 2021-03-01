@@ -9,5 +9,6 @@
 profile_default/
 ipython_config.py
 
+*.sql
 *.csv
 */.catboost_info/*
