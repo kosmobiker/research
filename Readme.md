@@ -15,6 +15,10 @@ Four models are presented:
 4. Linear SVM
 
 
-Will be updated
+The main next tasks:
+
+1. Create a roadmap based on CRISP-DM
+2. Re-write code in OOP style
+
 
 
